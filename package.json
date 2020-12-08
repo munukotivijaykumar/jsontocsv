@@ -16,7 +16,7 @@
     "cross-blob": "^1.2.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "fast-csv": "^4.0.2",
+    "fast-csv": "^4.3.6",
     "fs": "0.0.1-security",
     "json2csv": "^4.5.4",
     "jsonwebtoken": "^8.5.1",
